@@ -1,5 +1,8 @@
 # ML24_25
 A github repo for the Machine Learning course at UW.
 
-Rozwiązanie CZWARTEJ pracy domowej jest dostępne pod linkiem:
-https://github.com/tomczj/ML24_25/blob/main/Penalized_Regression/homework_4.ipynb
+Rozwiązanie PIĄTEJ pracy domowej jest dostępne pod linkiem:
+https://github.com/tomczj/ML24_25/blob/main/Kernel_methods/homework_5.ipynb
+
+UWAGA!!!
+Plik jest duży, więc nie pokaże się preview w githubie
