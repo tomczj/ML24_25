@@ -49,9 +49,9 @@
     ["teacher", "chalk"]
   ],
   "currency_country": [
+    ["USA", "dollar"],
     ["UK", "pound"],
     ["India", "rupee"],
-    ["USA", "dollar"],
     ["China", "yuan"],
     ["Russia", "ruble"]
   ],
