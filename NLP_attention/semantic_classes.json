@@ -1,302 +1,72 @@
 {
   "gender": [
-    [
-      "king",
-      "queen"
-    ],
-    [
-      "man",
-      "woman"
-    ],
-    [
-      "prince",
-      "princess"
-    ],
-    [
-      "waiter",
-      "waitress"
-    ],
-    [
-      "actor",
-      "actress"
-    ],
-    [
-      "husband",
-      "wife"
-    ],
-    [
-      "father",
-      "mother"
-    ]
+    ["king", "queen"],
+    ["man", "woman"],
+    ["prince", "princess"],
+    ["waiter", "waitress"],
+    ["actor", "actress"]
   ],
   "verb_tense": [
-    [
-      "bring",
-      "brought"
-    ],
-    [
-      "get",
-      "got"
-    ],
-    [
-      "like",
-      "liked"
-    ],
-    [
-      "swim",
-      "swam"
-    ],
-    [
-      "eat",
-      "ate"
-    ],
-    [
-      "drive",
-      "drove"
-    ],
-    [
-      "sing",
-      "sang"
-    ]
+    ["bring", "brought"],
+    ["get", "got"],
+    ["like", "liked"],
+    ["swim", "swam"],
+    ["eat", "ate"]
   ],
   "singular_plural": [
-    [
-      "cat",
-      "cats"
-    ],
-    [
-      "dog",
-      "dogs"
-    ],
-    [
-      "car",
-      "cars"
-    ],
-    [
-      "child",
-      "children"
-    ],
-    [
-      "mouse",
-      "mice"
-    ],
-    [
-      "person",
-      "people"
-    ],
-    [
-      "foot",
-      "feet"
-    ]
+    ["cat", "cats"],
+    ["dog", "dogs"],
+    ["car", "cars"],
+    ["child", "children"],
+    ["mouse", "mice"]
   ],
   "country_capital": [
-    [
-      "France",
-      "Paris"
-    ],
-    [
-      "Italy",
-      "Rome"
-    ],
-    [
-      "Germany",
-      "Berlin"
-    ],
-    [
-      "Japan",
-      "Tokyo"
-    ],
-    [
-      "Spain",
-      "Madrid"
-    ],
-    [
-      "Canada",
-      "Ottawa"
-    ],
-    [
-      "Australia",
-      "Canberra"
-    ]
+    ["France", "Paris"],
+    ["Italy", "Rome"],
+    ["Germany", "Berlin"],
+    ["Spain", "Madrid"],
+    ["Brazil", "Brasília"]
   ],
   "comparative": [
-    [
-      "bright",
-      "brighter"
-    ],
-    [
-      "big",
-      "bigger"
-    ],
-    [
-      "small",
-      "smaller"
-    ],
-    [
-      "fast",
-      "faster"
-    ],
-    [
-      "slow",
-      "slower"
-    ],
-    [
-      "high",
-      "higher"
-    ],
-    [
-      "low",
-      "lower"
-    ]
+    ["bright", "brighter"],
+    ["big", "bigger"],
+    ["small", "smaller"],
+    ["fast", "faster"],
+    ["slow", "slower"]
   ],
   "superlative": [
-    [
-      "big",
-      "biggest"
-    ],
-    [
-      "small",
-      "smallest"
-    ],
-    [
-      "fast",
-      "fastest"
-    ],
-    [
-      "slow",
-      "slowest"
-    ],
-    [
-      "high",
-      "highest"
-    ],
-    [
-      "low",
-      "lowest"
-    ],
-    [
-      "bright",
-      "brightest"
-    ]
+    ["high", "highest"],
+    ["low", "lowest"],
+    ["tall", "tallest"],
+    ["cold", "coldest"],
+    ["hot", "hottest"]
   ],
   "job_tool": [
-    [
-      "carpenter",
-      "hammer"
-    ],
-    [
-      "painter",
-      "brush"
-    ],
-    [
-      "chef",
-      "knife"
-    ],
-    [
-      "doctor",
-      "stethoscope"
-    ],
-    [
-      "writer",
-      "pen"
-    ],
-    [
-      "photographer",
-      "camera"
-    ],
-    [
-      "farmer",
-      "plow"
-    ]
+    ["carpenter", "hammer"],
+    ["painter", "brush"],
+    ["chef", "knife"],
+    ["doctor", "stethoscope"],
+    ["driver", "steering wheel"]
   ],
   "currency_country": [
-    [
-      "USA",
-      "dollar"
-    ],
-    [
-      "Japan",
-      "yen"
-    ],
-    [
-      "UK",
-      "pound"
-    ],
-    [
-      "India",
-      "rupee"
-    ],
-    [
-      "Europe",
-      "euro"
-    ],
-    [
-      "China",
-      "yuan"
-    ],
-    [
-      "Russia",
-      "ruble"
-    ]
+    ["UK", "pound"],
+    ["India", "rupee"],
+    ["USA", "dollar"],
+    ["China", "yuan"],
+    ["Russia", "ruble"]
   ],
   "animal_sound": [
-    [
-      "dog",
-      "bark"
-    ],
-    [
-      "cat",
-      "meow"
-    ],
-    [
-      "cow",
-      "moo"
-    ],
-    [
-      "duck",
-      "quack"
-    ],
-    [
-      "horse",
-      "neigh"
-    ],
-    [
-      "sheep",
-      "baa"
-    ],
-    [
-      "lion",
-      "roar"
-    ]
+    ["cow", "moo"],
+    ["duck", "quack"],
+    ["horse", "neigh"],
+    ["sheep", "baa"],
+    ["lion", "roar"]
   ],
   "tool_user": [
-    [
-      "broom",
-      "janitor"
-    ],
-    [
-      "scalpel",
-      "surgeon"
-    ],
-    [
-      "chalk",
-      "teacher"
-    ],
-    [
-      "wrench",
-      "mechanic"
-    ],
-    [
-      "microscope",
-      "biologist"
-    ],
-    [
-      "baton",
-      "conductor"
-    ],
-    [
-      "trowel",
-      "gardener"
-    ]
+    ["broom", "janitor"],
+    ["scalpel", "surgeon"],
+    ["chalk", "teacher"],
+    ["wrench", "mechanic"],
+    ["microscope", "biologist"]
   ]
 }
